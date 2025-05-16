@@ -20,7 +20,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📝 I regularly write articles on 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5,c,Java CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **asikm2153@gmail.com**
 
